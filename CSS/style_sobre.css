@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    padding: 0%;    
+    background-color: #000000;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.imagem{
+    width: 30%;
+    height: 300px;
+}
+
+img~p{
+    float: right;
+}
+
+div{
+    display: flex;
+}
+
+img{
+    width: 25%;
+}
+
+div>section{
+    padding-left: 3%;
+}
+
+/*div{
+    display: flex;
+}
+
+.info{
+    padding-left: 30px;
+    margin-top: 10px;
+}
+
+p{
+    width: 100%;
+}*/
